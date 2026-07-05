@@ -1,1 +1,7 @@
 Aplikasi ini adalah project final mata kuliah Algoritma & Pemrograman 2 dan merupakan proyek aplikasi independen pertama yang saya ciptakan setelah menguasai materi bahasa pemrograman Visual Basic. Aplikasi ini dapat digunakan oleh Toko Game untuk mencatat transaksi toko.
+
+### Tentang Aplikasi Ini
+
+Aplikasi Sistem Informasi Point of Sales (POS) dan Manajemen Inventory ini dirancang untuk mengotomatisasi sekaligus mengintegrasikan proses bisnis ritel secara end-to-end, mulai dari pengelolaan data master hingga pencatatan transaksi finansial. Dikembangkan menggunakan bahasa pemrograman Visual Basic, sistem ini mengimplementasikan manajemen basis data yang terstruktur untuk menangani modul utama seperti manajemen stok barang secara real-time, pencatatan data supplier, kalkulasi otomatis transaksi pembelian dan penjualan (termasuk perhitungan pajak, diskon, dan kembalian), serta sistem otentikasi multi-user (Admin dan Kasir) demi menjaga keamanan dan validitas data operasional.
+
+Proyek ini dibangun sebagai solusi digital komprehensif untuk meminimalisir kesalahan manusia (human error) dalam pencatatan manual dan mempercepat proses pengambilan keputusan melalui penyediaan informasi inventaris yang akurat. Melalui antarmuka yang intuitif dan alur kerja yang sistematis, aplikasi ini merepresentasikan penerapan nyata dari prinsip analisis sistem informasi, manajemen basis data, dan rekayasa perangkat lunak dalam menyelesaikan tantangan operasional bisnis di dunia nyata.
