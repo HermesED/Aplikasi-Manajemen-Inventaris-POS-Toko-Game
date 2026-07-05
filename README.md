@@ -1,0 +1,1 @@
+Aplikasi ini adalah project final mata kuliah Algoritma & Pemrograman 2 dan merupakan proyek aplikasi independen pertama yang saya ciptakan setelah menguasai materi bahasa pemrograman Visual Basic. Aplikasi ini dapat digunakan oleh Toko Game untuk mencatat transaksi toko.
